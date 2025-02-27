@@ -1,7 +1,7 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Ruslan+Mul+Github+Profile..)](https://git.io/typing-svg)
 
-[![Mail Badge](https://img.shields.io/badge/-Vasujaiswal00@-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mail:rus@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-man2105-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mail:rus@gmail.com)
 <br> 
  <p align="center">
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
