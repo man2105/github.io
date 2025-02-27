@@ -7,7 +7,7 @@
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ruslan</h1>
-<h3 align="center">Passionate 
+<h3 align="center">
 </h3>
 
 
